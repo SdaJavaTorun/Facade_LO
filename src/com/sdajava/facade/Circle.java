@@ -1,9 +1,9 @@
-package com.sdajava.factory;
+package com.sdajava.facade;
 
 /**
  * Created by lukas on 29.03.2017.
  */
-public class Rectangle implements Shape{
+public class Circle implements Shape{
     @Override
     public void draw() {
         System.out.println("Draw");

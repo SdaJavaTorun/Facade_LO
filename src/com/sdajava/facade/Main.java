@@ -1,4 +1,4 @@
-package com.sdajava.factory;
+package com.sdajava.facade;
 
 public class Main {
 

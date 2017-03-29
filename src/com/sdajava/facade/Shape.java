@@ -1,4 +1,4 @@
-package com.sdajava.factory;
+package com.sdajava.facade;
 
 /**
  * Created by lukas on 29.03.2017.
