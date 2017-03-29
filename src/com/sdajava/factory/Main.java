@@ -6,11 +6,5 @@ public class Main {
 	// write your code here
 
 
-
-        ShapeProcess shapeProcess = new ShapeProcess();
-        shapeProcess.doAction("circle");
-
-
-
     }
 }
